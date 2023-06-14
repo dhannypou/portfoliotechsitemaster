@@ -29,8 +29,8 @@ const AboutUs = () => {
 					te brindarán el mejor servicio. 🤝👩‍💼👨‍💼 🌐 Con nuestra amplia
 					experiencia en el mercado, garantizamos resultados excepcionales y
 					soluciones personalizadas. 📈💡 💥 No pierdas la oportunidad de llevar
-					tu negocio al siguiente nivel. ¡Confía en [Nombre de tu negocio] y
-					alcanza el éxito que tanto deseas! 💯🚀
+					tu negocio al siguiente nivel. ¡Confía en TechSiteMaster y alcanza el
+					éxito que tanto deseas! 💯🚀
 				</p>
 				{/*  <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro nam a
